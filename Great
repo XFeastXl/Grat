@@ -1,8 +1,5 @@
 return {
     verifiedHWIDs = {
     ["Clientid"] = true,
-    },
-    verifiedUserIds = {
-    [Userid] = true,
     }
 }

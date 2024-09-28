@@ -1,5 +1,5 @@
 return {
     verifiedHWIDs = {
-    ["Clientid"] = true,
+    ["68ee0995-3285-48b4-aff3-76920294f0a1"] = true,
     }
 }

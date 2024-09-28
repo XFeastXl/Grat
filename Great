@@ -1,5 +1,6 @@
 return {
     verifiedHWIDs = {
     ["68ee0995-3285-48b4-aff3-76920294f0a1"] = true,
+    ["A7FF7252-3F3C-4DAE-9739-94AD1A58A97D"] = true,
     }
 }
